@@ -1,0 +1,56 @@
+<header class="paddingT50">
+        <div class="wrap flex between">
+            <h1>
+                <a href="">HB PAPER</a>
+            </h1>
+            <ul class="gnb flex">
+                <li><a href="">회사소개</a></li>
+                <li><a href="">사업소개</a></li>
+                <li><a href="">제품소개</a></li>
+                <li><a href="">고객센터</a></li>
+            </ul>
+            <div class="sublist">
+                <div class="menu1">
+                    <h2 class="hide">회사소개</h2>
+                    <ul class="useguide">
+                        <li><a href="">HB PAPER 소개</a></li>
+                        <li><a href="">히스토리</a></li>
+                        <li><a href="">인증서 및 수상내역</a></li>
+                        <li><a href="">홍보자료</a></li>
+                    </ul>
+                </div>
+                <div class="menu2">
+                    <h2 class="hide">사업소개</h2>
+                    <ul class="useguide">
+                        <li><a href="">사업분야</a></li>
+                        <li><a href="">기술 및 설비</a></li>
+                    </ul>
+                </div>
+                <div class="menu3">
+                    <h2 class="hide">제품소개</h2>
+                    <ul class="useguide">
+                        <li><a href="">종이 봉투</a></li>
+                        <li><a href="">종이 쇼핑백</a></li>
+                        <li><a href="">종이 안전 봉투</a></li>
+                        <li><a href="">종이 식품 용기</a></li>
+                        <li><a href="">종이 테이프</a></li>
+                        <li><a href="">종이 완충재</a></li>
+                        <li><a href="">특수지</a></li>
+                    </ul>
+                </div>
+                <div class="menu4">
+                    <h2 class="hide">고객센터</h2>
+                    <ul class="useguide">
+                        <li><a href="">공지사항</a></li>
+                        <li><a href="">보도자료</a></li>
+                        <li><a href="">온라인문의</a></li>
+                        <li><a href="">찾아오시는 길</a></li>
+                    </ul>
+                </div>
+            </div>
+            <span>
+                <a href="">KOR</a>
+                <a href="">ENG</a>
+            </span>
+        </div>
+    </header>
